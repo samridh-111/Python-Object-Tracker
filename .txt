@@ -1,0 +1,13 @@
+out = cv2.VideoWriter(
+
+    output_video,
+
+    cv2.VideoWriter_fourcc(*'mp4v'),
+
+    fps,
+
+    (frame_width, frame_height)
+
+)
+
+his out 
